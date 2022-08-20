@@ -1,2 +1,2 @@
-# portfolio
-Github page for my portfolio
+# PRINJESH SHAH
+M.Sc. Mathematical modelling, simulation and optimization
