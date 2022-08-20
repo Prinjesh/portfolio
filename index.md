@@ -5,8 +5,6 @@ My short term goal is to engage in industry and contribute in the entire ML life
 
 ### Machine learning (Deep learning) for computer vision:
 - This Project is a part of University of Koblenz's research and it deals with multimodal action recognition. We aim to create a training robot which supports people in elderly homes by recognizing their gestures and activities and acting accordingly. It may support them in their everyday lives and further saves them when accidents occur.
-- As a machine learning engineer, I assumed below responsibilities:
-    1. Developing deep learning pipeline
 ##### Competitions:
 For research and training purposes we took part in two online challenges where we created our first training routine. Those challenges were due on June 30th 2021 and our confidence paid off. We succeeded on both competitions and won against a few competitors:
 [Link](https://metricsproject.eu/news/heart-met-challenges-results-1/)
