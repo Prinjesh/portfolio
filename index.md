@@ -15,7 +15,9 @@ I would explain my projects in an order desplayed below.
         * Generating a statistical model (explainable model)
         * Gathering(in my case, generating) IMU data from the simulation of the robot's movements 
         * Exploratory data analysis of Time series data
-2. Machine learning (Deep learning) for computer vision: (**MACHINE LEARNING ENGINEER: FEATURE ENGINEERING, PREDICTIVE MODELING, DEEP LEARNING**)
+2. Data engineer (internship) @ Allianz investment management, stuttgart: (**Database Management, data visualization, Data preparation**)
+    
+3. Machine learning (Deep learning) for computer vision: (**MACHINE LEARNING ENGINEER: FEATURE ENGINEERING, PREDICTIVE MODELING, DEEP LEARNING**)
     - This Project is a part of University of Koblenz's research and it deals with multimodal action recognition. We aim to create a training robot which supports people in elderly homes by recognizing their gestures and activities and acting accordingly. It may support them in their everyday lives and further saves them when accidents occur.
     - I assumed a Machine learning engineer position in the team.
     - Competitions:
