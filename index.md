@@ -1,21 +1,12 @@
-**PRINJESHKUMAR SHAH**
+#### **PRINJESHKUMAR SHAH**
 
-
-<details><summary>Does not work</summary>
-[hi](https://hello.ca)
-</details>
-
-
-<details><summary>Does work</summary>
-
-[hi](https://hello.ca)
-
-</details>
 
 ### OBJECTIVE:
 My short term goal is to engage in industry and contribute in the entire ML lifecycle as a data scientist. My long term goal is to be able to govern an entire data team in industry projects. I am interested in mainly two types of industries: Engineering and Fintech/Finance.
 
-### Machine learning (Deep learning) for computer vision:
+<details><summary>### Projects:</summary>
+
+<details><summary>### Machine learning (Deep learning) for computer vision:</summary>
 - This Project is a part of University of Koblenz's research and it deals with multimodal action recognition. We aim to create a training robot which supports people in elderly homes by recognizing their gestures and activities and acting accordingly. It may support them in their everyday lives and further saves them when accidents occur.
 - I assumed a Machine learning engineer position in the team.
 - Responsibilities and roles:
@@ -40,8 +31,9 @@ The entire development is not open source and is propriatory to the University o
 
 - ##### MAREC:
 MAREC is a prototypical machine which aims to apply our research methods on an actual robot that will be able to recognize human gestures and react/ interact accordingly.
+</details>
 
-
+</details>
 ### Some important links
 - [Link](https://medium.com/@prinjeshshah3/creating-your-deep-learning-model-with-pytorch-lightning-bc6ae60d90d)
 - [Link](https://github.com/Prinjesh)
