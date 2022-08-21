@@ -7,9 +7,15 @@ My short term goal is to engage in industry and contribute in the entire Data sc
 I would explain my projects in an order desplayed below.
 ![Life cycle](DS_Lifecycle_1.jpeg)
 
-### Projects:
+### Experience:
 
-1. Machine learning (Deep learning) for computer vision: (**MACHINE LEARNING ENGINEER: FEATURE ENGINEERING, PREDICTIVE MODELING, DEEP LEARNING**)
+1. Exploratory data analysis for autonomous quadrupped robot: (**Understanding the (business) problem, Gathering data, data preparation and exploratory data analysis**)
+    - This Master thesis is a part of an ongoing robotics project in colaboration with german military and AGAS group (of University of Koblenz). It has the goal of generating accesibility information from sensor data that a four-legged robot (SPOT mini) can use to navigate some terrain.
+    - Highlights of the projects:
+        * Generating a statistical model (explainable model)
+        * Gathering(in my case, generating) IMU data from the simulation of the robot's movements 
+        * Exploratory data analysis of Time series data
+2. Machine learning (Deep learning) for computer vision: (**MACHINE LEARNING ENGINEER: FEATURE ENGINEERING, PREDICTIVE MODELING, DEEP LEARNING**)
     - This Project is a part of University of Koblenz's research and it deals with multimodal action recognition. We aim to create a training robot which supports people in elderly homes by recognizing their gestures and activities and acting accordingly. It may support them in their everyday lives and further saves them when accidents occur.
     - I assumed a Machine learning engineer position in the team.
     - Competitions:
