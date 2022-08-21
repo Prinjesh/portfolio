@@ -5,7 +5,7 @@
 My short term goal is to engage in industry and contribute in the entire Data science lifecycle as a data scientist. My long term goal is to be able to govern an entire data team in industry projects. I am interested in mainly two types of industries: Engineering and Fintech/Finance.
 
 I would explain my projects in an order desplayed below.
-![Life cycle](DS_Lifecycle.jpeg)
+![Life cycle](DS_Lifecycle_1.jpeg)
 
 ### Projects:
 
