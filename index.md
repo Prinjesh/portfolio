@@ -6,7 +6,7 @@ My short term goal is to engage in industry and contribute in the entire ML life
 
 ### Projects:
 
-<details><summary>Machine learning (Deep learning) for computer vision:</summary>
+1. Machine learning (Deep learning) for computer vision:</summary>
 
     - This Project is a part of University of Koblenz's research and it deals with multimodal action recognition. We aim to create a training robot which supports people in elderly homes by recognizing their gestures and activities and acting accordingly. It may support them in their everyday lives and further saves them when accidents occur.
     - I assumed a Machine learning engineer position in the team.
@@ -32,8 +32,6 @@ My short term goal is to engage in industry and contribute in the entire ML life
 
     - MAREC:
     MAREC is a prototypical machine which aims to apply our research methods on an actual robot that will be able to recognize human gestures and react/ interact accordingly.
-</details>
 
-<details><summary>Projects:</summary>
+2. Projects:
 Testing
-</details>
