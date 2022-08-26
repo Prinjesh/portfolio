@@ -4,7 +4,7 @@
 ### OBJECTIVE:
 My short term goal is to engage in industry and contribute in the entire Data science lifecycle as a data scientist. My long term goal is to be able to govern an entire data team in industry projects. I am interested in mainly two types of industries: Engineering and Fintech/Finance.
 
-I would explain my projects in an order desplayed below.
+I would explain my projects and experience in an order desplayed below.
 ![Life cycle](DS_Lifecycle_1.jpeg)
 
 ### Experience:
@@ -33,5 +33,14 @@ I would explain my projects in an order desplayed below.
     - MAREC:
     MAREC is a prototypical machine which aims to apply our research methods on an actual robot that will be able to recognize human gestures and react/ interact accordingly.
 
-2. Projects:
-Testing
+
+### Projects:
+
+1. NLP: 
+    - Competition: **Predict which Tweets are about real disasters and which ones are not (NLP with disaster tweets)**
+        * Right now I am maintaining two notebooks with two different approaches.
+            1. Tf-idf vectorization and Ridgeclassifier based on scikit-learn library.
+                - [Link](https://www.kaggle.com/code/prinjeshshah/nlp-classification-tf-idf-and-ridgeclassifier)
+            2. Data cleaning on NLP like stemming, removing stopping words, etc with simple LSTM model. 
+                - [Link](https://www.kaggle.com/code/prinjeshshah/nlp-classification-cleaning-glove-and-simplelstm)
+
